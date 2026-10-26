@@ -128,17 +128,50 @@ Candidate materials included aluminum, steel, PLA, ABS, nylon and elastomeric ma
 
 These were proposed materials for future manufacturing, not a record of physical parts fabricated.
 
+
 ## Project Gallery
 
-Selected CAD renders, assembly views and mechanical details will be added to illustrate the developed robot.
+The following images document the mechanical design and CAD assembly
+of our SCARA robot, developed using SolidWorks.
 
-Planned visual evidence:
+### 1. Complete SCARA Robot Assembly
 
-- Complete SCARA CAD assembly
-- Lead screw and vertical tool mechanism
-- Custom motor mounting support
-- Articulated arm components
-- Mechanical bearings and transmission details
+General CAD view of the SCARA-inspired robot architecture,
+including the articulated arms and mechanical structure.
+
+![SCARA robot CAD assembly](scara-cad-assembly.jpg)
+
+### 2. Lead Screw Mechanism
+
+Mechanical solution designed to convert rotational motion
+into vertical displacement of the piercing tool.
+
+![SCARA lead screw mechanism](scara-leadscrew-mechanism.jpg)
+
+### 3. Bearing and Rotational Support Design
+
+Detailed CAD modeling of a bearing assembly used to represent
+the rotational support of the robot joints.
+
+![SCARA bearing design](scara-bearing-design.jpg)
+
+### 4. Articulated Arm CAD Modeling
+
+Example of the geometric modeling operations used to develop
+the mechanical components of the robot.
+
+![SCARA arm CAD design](scara-arm-cad.jpg)
+
+### 5. Custom Motor Support
+
+Custom-designed mechanical support developed to position
+and secure the motor within the robot structure.
+
+![SCARA motor support](scara-motor-support.jpg)
+
+**Validation scope:** These images document the CAD design.
+The complete SCARA robot was not physically manufactured.
+
 
 ## Project Results
 
